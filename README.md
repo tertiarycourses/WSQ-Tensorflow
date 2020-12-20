@@ -1,5 +1,5 @@
 # NICF – Basic Deep Learning with Tensorflow Keras
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [NICF – Basic Deep Learning with Tensorflow Keras](https://www.tertiarycourses.com.sg/wsq-deep-learning-tensorflow-keras.html) course. 
 
